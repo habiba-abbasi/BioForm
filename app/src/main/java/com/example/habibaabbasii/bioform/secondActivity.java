@@ -20,6 +20,7 @@ Button goBackButton;
         String name = i.getExtras().getString("nameKey","No.git/vonfig Name Entered");
         tvText.setText(name);
 
+
         goBackButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
