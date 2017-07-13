@@ -17,7 +17,7 @@ Button goBackButton;
         goBackButton = (Button) findViewById(R.id.btnBack);
         tvText = (TextView) findViewById(R.id.tvText);
         Intent i = getIntent();
-        String name = i.getExtras().getString("nameKey","No Name Entered");
+        String name = i.getExtras().getString("nameKey","No.git/vonfig Name Entered");
         tvText.setText(name);
 
         goBackButton.setOnClickListener(new View.OnClickListener() {
