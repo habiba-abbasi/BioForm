@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BioForm.iml" filepath="$PROJECT_DIR$/BioForm.iml" />
+      <module fileurl="file://G:\AndroidData\AndroidStudioProjects\BioForm.git\BioForm.iml" filepath="G:\AndroidData\AndroidStudioProjects\BioForm.git\BioForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BioForm.git.iml" filepath="$PROJECT_DIR$/BioForm.git.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\AndroidData\AndroidStudioProjects\BioForm.git\app\app.iml" filepath="G:\AndroidData\AndroidStudioProjects\BioForm.git\app\app.iml" />
     </modules>
   </component>
 </project>
