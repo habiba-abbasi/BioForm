@@ -19,7 +19,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         findViewByIds();
-        System.out.println("Hello");
+        System.out.println("bye");
 
         b.setOnClickListener(new View.OnClickListener() {
             @Override
